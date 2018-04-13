@@ -4,7 +4,7 @@
 	int
 	main(int argc, char **argv)
 	{
-	    int a[] = {2, 4, 6, 8, 10, 12, 14, 16};
+	    int a[] = {2, 4, 6, 8, 10, 12, 14, 16,17,19};
 	    int key = atoi(argv[1]);
 	    int n = 8;
 	    int low = 0;
